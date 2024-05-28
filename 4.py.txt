@@ -6,9 +6,6 @@ def compare_value(x,y):
        else:
         return -1
 
-
 print(compare_value(3,5))
-
 print(compare_value(5,5))
-
 print(compare_value(5,3))
